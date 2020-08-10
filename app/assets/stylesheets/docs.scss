@@ -1,0 +1,46 @@
+// Place all the styles related to the docs controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+form
+  {   
+     
+      font-size: larger;
+      margin-left: 600px;
+      display: inline-block;
+      text-align: left;
+      background: rgb(46, 132, 172);		
+      width:400px;
+    
+      display: inline-table;
+      align-items: center;
+      
+  }
+ 
+ h1
+ {
+  
+   font-size: large;
+   font-family:'Times new roman';
+   padding-left: 5%;
+  }
+  h2{
+    text-align: left;
+    }
+  h3{
+      padding-left: 700px;
+      }
+  h4{
+
+  }  
+  p{
+    padding-left:5%;
+    font-size: large;
+    font-family: 'Times new roman';
+
+  }
+
+
+  //font-size:x-large;
+    // font-family:'Times new roman';
+     //margin-left: 20px;
